@@ -4,7 +4,14 @@
 		<p>This is the dashboard page</p>
 		<br/>
 		<div class="data-table">
-			<span>search by year: </span>
+      <span>search by:</span>
+      <select v-model="searchField">
+        <option>year</option>
+        <option>university</option>
+        <option>school</option>
+        <option>degree</option>
+      </select>
+			<span>search value:</span>
 			<input type="text" v-model="searchValue">
 			<EasyDataTable
 				:headers="headers"
