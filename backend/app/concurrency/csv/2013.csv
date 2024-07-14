@@ -1,0 +1,86 @@
+Vault ID,Year,University,School,Degree,Employment Rate Overall,Employment Rate FT Perm,Basic Monthly Mean,Basic Monthly Median,Gross Monthly Mean,Gross Monthly Median,Gross Monthly 25th Percentile,Gross Monthly 75th Percentile
+1,2013,Nanyang Technological University,College of Business (Nanyang Business School),Accountancy and Business,97.4,96.1,3701,3200,3727,3350,2900,4000
+2,2013,Nanyang Technological University,College of Business (Nanyang Business School),Accountancy (3-yr direct Honours Programme),97.1,95.7,2850,2700,2938,2700,2700,2900
+3,2013,Nanyang Technological University,College of Business (Nanyang Business School),Business (3-yr direct Honours Programme),90.9,85.7,3053,3000,3214,3000,2700,3500
+4,2013,Nanyang Technological University,College of Business (Nanyang Business School),Business and Computing,87.5,87.5,3557,3400,3615,3400,3000,4100
+5,2013,Nanyang Technological University,College of Engineering,Aerospace Engineering,95.3,95.3,3494,3500,3536,3500,3100,3816
+6,2013,Nanyang Technological University,College of Engineering,Bioengineering,81.3,68.8,2952,2900,3166,3125,2893,3365
+7,2013,Nanyang Technological University,College of Engineering,Chemical and Biomolecular Engineering,87.3,85.1,3235,3000,3377,3200,3000,3800
+8,2013,Nanyang Technological University,College of Engineering,Computer Engineering,90.3,88.2,3326,3100,3374,3175,3000,3600
+9,2013,Nanyang Technological University,College of Engineering,Civil Engineering,94.8,93.8,3091,3000,3182,3100,3000,3380
+10,2013,Nanyang Technological University,College of Engineering,Computer Science,92.1,88.5,3249,3000,3306,3125,3000,3600
+11,2013,Nanyang Technological University,College of Engineering,Electrical and Electronic Engineering,91,88.7,3133,3000,3187,3100,3000,3440
+12,2013,Nanyang Technological University,College of Engineering,Environmental Engineering,84,81.5,3091,3000,3140,3000,3000,3300
+13,2013,Nanyang Technological University,College of Engineering,Information Engineering and Media,85.7,79.6,3160,3150,3203,3200,2950,3400
+14,2013,Nanyang Technological University,College of Engineering,Materials Engineering,82.5,78.9,2989,3000,3096,3000,2800,3300
+15,2013,Nanyang Technological University,College of Engineering,Mechanical Engineering,91.6,89.5,3125,3000,3226,3100,3000,3500
+16,2013,Nanyang Technological University,College of Engineering,Maritime Studies,95.6,93.3,3050,3000,3111,3000,2850,3200
+17,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences","Art, Design & Media",81.6,61.4,2639,2500,2638,2500,2300,2900
+18,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Chinese,85.1,80.5,2818,2800,2924,3000,2600,3300
+19,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Communication Studies,89.4,79.6,2893,2930,2956,3000,2700,3250
+20,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Economics,89.9,83.5,3085,3000,3148,3000,2800,3545
+21,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",English,82.7,67.3,3087,3000,3179,3100,2800,3400
+22,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Linguistics and Multilingual Studies,90.6,81.3,2691,2600,2725,2625,2475,3018
+23,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Psychology,82.4,71.8,3007,3000,3061,3000,2750,3255
+24,2013,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Sociology,74.4,55.8,2980,3000,3082,3100,2800,3310
+25,2013,Nanyang Technological University,College of Sciences,Biomedical Sciences **,na,na,na,na,na,na,na,na
+26,2013,Nanyang Technological University,College of Sciences,Biomedical Sciences (Traditional Chinese Medicine) #,90.7,88.4,2840,2800,2883,2807,2700,3000
+27,2013,Nanyang Technological University,College of Sciences,Biological Sciences,78.6,68.1,2881,2900,3002,3000,2700,3250
+28,2013,Nanyang Technological University,College of Sciences,Chemistry & Biological Chemistry,79.8,68.9,2993,3000,3083,3100,2800,3400
+29,2013,Nanyang Technological University,College of Sciences,Mathematics & Economics **,na,na,na,na,na,na,na,na
+30,2013,Nanyang Technological University,College of Sciences,Mathematical Science,86,83.7,3169,3000,3262,3000,2750,3500
+31,2013,Nanyang Technological University,College of Sciences,Physics / Applied Physics,80.8,69.2,3164,3000,3208,3300,2900,3400
+32,2013,Nanyang Technological University,College of Sciences,Sports Science and Management,68.2,59.1,2968,3000,2985,3000,2700,3400
+33,2013,Nanyang Technological University,National Institute of Education (NIE),Science (with Education),100,100,3377,3400,3478,3498,3300,3800
+34,2013,Nanyang Technological University,National Institute of Education (NIE),Arts (with Education),100,100,3413,3426,3506,3498,3400,3575
+35,2013,National University of Singapore,Faculty of Arts & Social Sciences,Bachelor of Arts,84.8,70.1,2741,2730,2888,2800,2500,3080
+36,2013,National University of Singapore,Faculty of Arts & Social Sciences,Bachelor of Arts (Hons),86.6,74.6,3057,3200,3154,3200,2800,3500
+37,2013,National University of Singapore,Faculty of Arts & Social Sciences,Bachelor of Social Sciences,88.1,76.8,3098,3100,3210,3200,2800,3500
+38,2013,National University of Singapore,NUS Business School,Bachelor of Business Administration,88.7,81.7,2960,2868,3062,3000,2700,3370
+39,2013,National University of Singapore,NUS Business School,Bachelor of Business Administration (Hons),94.6,90.3,3404,3050,3512,3200,2800,3800
+40,2013,National University of Singapore,NUS Business School,Bachelor of Business Administration (Accountancy),93.3,88.9,2740,2700,2922,2700,2700,3018
+41,2013,National University of Singapore,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),97.2,94.4,3065,2800,3143,2800,2700,3200
+42,2013,National University of Singapore,School of Computing,Bachelor of Computing (Communications and Media),88.9,77.8,3350,3000,3377,3050,2825,3425
+43,2013,National University of Singapore,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na
+44,2013,National University of Singapore,School of Computing,Bachelor of Computing (Computer Engineering) **,na,na,na,na,na,na,na,na
+45,2013,National University of Singapore,School of Computing,Bachelor of Computing (Computer Science),92.4,83.3,3933,3400,3953,3425,3000,4000
+46,2013,National University of Singapore,School of Computing,Bachelor of Computing (Electronic Commerce),88.9,83.3,3277,3050,3320,3080,2800,3553
+48,2013,National University of Singapore,School of Computing,Bachelor of Computing (Information Systems),89.2,83.9,3266,3000,3322,3005,3000,3800
+49,2013,National University of Singapore,Faculty of Dentistry,Bachelor of Dental Surgery,100,100,4106,4000,4106,4000,4000,4400
+50,2013,National University of Singapore,School of Design & Environment,Bachelor of Arts (Architecture) ** #,na,na,na,na,na,na,na,na
+51,2013,National University of Singapore,School of Design & Environment,Bachelor of Arts (Industrial Design),82.1,53.6,3007,2650,3023,2650,2400,3000
+52,2013,National University of Singapore,School of Design & Environment,Bachelor of Science (Project and Facilities Management),96.8,96.8,2961,2980,3025,3000,2800,3200
+53,2013,National University of Singapore,School of Design & Environment,Bachelor of Science (Real Estate),89.2,89.2,2839,2800,2988,2900,2600,3179
+54,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Bioengineering),74,60,2823,3000,3068,3000,2720,3250
+55,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Chemical Engineering),93.2,90,3245,3000,3359,3175,3000,3644
+56,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Civil Engineering),96.1,94.1,3140,3000,3154,3050,3000,3300
+57,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Computer Engineering),88.9,85.6,3592,3200,3653,3200,3000,3970
+58,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Electrical Engineering),88.5,88,3286,3100,3334,3200,3000,3600
+59,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Engineering Science),86.2,75.9,2940,3000,2960,3000,2800,3150
+60,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Environmental Engineering),93.8,87.5,3153,3100,3208,3110,3000,3500
+61,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Industrial and Systems Engineering),93.9,92.4,3330,3200,3397,3200,3000,3800
+62,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Materials Science and Engineering),90.9,87.9,3036,3000,3169,3000,3000,3260
+63,2013,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Mechanical Engineering),89.1,87.2,3155,3000,3319,3225,3000,3500
+64,2013,National University of Singapore,Faculty of Law,Bachelor of Laws (LLB) (Hons) #,98.8,98.2,4922,4800,5099,5000,4500,5800
+65,2013,National University of Singapore,YLL School of Medicine,Bachelor of Medicine and Bachelor of Surgery (MBBS) #,100,100,4406,4500,4741,4500,4500,5200
+66,2013,National University of Singapore,YLL School of Medicine,Bachelor of Science (Nursing),97.5,97.5,2687,2750,2886,2950,2700,3050
+67,2013,National University of Singapore,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),100,100,2896,3000,3042,3025,3000,3200
+68,2013,National University of Singapore,Yong Siew Toh Conservatory of Music,Bachelor of Music **,na,na,na,na,na,na,na,na
+69,2013,National University of Singapore,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na
+70,2013,National University of Singapore,Faculty of Science,Bachelor of Applied Science (Hons),97.3,97.3,2850,2750,2925,2900,2600,3255
+71,2013,National University of Singapore,Faculty of Science,Bachelor of Science,80.9,65.1,2726,2700,2804,2800,2600,3000
+72,2013,National University of Singapore,Faculty of Science,Bachelor of Science (Hons),83.6,74,3101,3000,3217,3100,2868,3500
+73,2013,National University of Singapore,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na
+74,2013,National University of Singapore,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,96.4,96.4,3473,3500,3540,3500,3350,3750
+75,2013,Singapore Management University,School of Accountancy (4-year programme) *,Accountancy (4-years programme),94.2,93.2,3231,2800,3342,2825,2700,3430
+76,2013,Singapore Management University,School of Accountancy (4-year programme) *,Accountancy (4-years programme) Cum Laude and above,95.2,95.2,3580,2900,3634,3000,2700,3750
+77,2013,Singapore Management University,School of Business (4-year programme) *,Business Management (4-years programme),93.2,87.3,3344,3000,3520,3200,2800,3750
+78,2013,Singapore Management University,School of Business (4-year programme) *,Business Management (4-years programme) Cum Laude and above,95.9,93.8,3825,3500,3975,3580,3000,4100
+79,2013,Singapore Management University,School of Economics (4-year programme) *,Economics (4-years programme),90.6,88.6,3389,3200,3513,3339,3000,3800
+80,2013,Singapore Management University,School of Economics (4-year programme) *,Economics (4-years programme) Cum Laude and above,94,94,3731,3500,3820,3600,3250,4000
+81,2013,Singapore Management University,School of Information Systems (4-year programme) *,Information Systems Management (4-years programme),93.6,89.5,3389,3300,3468,3300,3000,3800
+82,2013,Singapore Management University,School of Information Systems (4-year programme) *,Information Systems Management (4-years programme) Cum Laude and above,100,90.9,3786,3725,3862,3800,3500,4000
+83,2013,Singapore Management University,School of Social Sciences (4-year programme) *,Social Sciences (4-years programme),86.5,79.8,3122,3000,3150,3000,2600,3320
+84,2013,Singapore Management University,School of Social Sciences (4-year programme) *,Social Sciences (4-years programme) Cum Laude and above,87.5,83.3,3251,3200,3267,3200,2800,3781
+85,2013,Singapore Management University,School of Law (4-year programme) *,Law (4-years programme) #,100,100,5023,4800,5246,5000,4500,6000
+86,2013,Singapore Management University,School of Law (4-year programme) *,Law (4-years programme) Cum Laude and above #,100,100,5329,5000,5617,5547,4750,6400
